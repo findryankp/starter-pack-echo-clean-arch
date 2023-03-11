@@ -8,4 +8,5 @@
 ## Usage
 1. cp .env.example .env
 2. set your .env
-3. go run main
+3. go install
+4. go run main
